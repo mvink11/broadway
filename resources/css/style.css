@@ -1,12 +1,12 @@
 *{
-  font-family: helvetica, sans-serif;
+  font-family: helvetica, san
 }
 body{
   text-align: center;
   font-family: helvetica;
 }
 .head, .design{
-  background-image: url(resources/images/the-flatiron-building.png);
+  background-image: url("resources/images/the-flatiron-building.png");
 }
 .head{
   color: white;
