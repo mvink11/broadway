@@ -1,3 +1,17 @@
 body{
   text-align: center;
+  font-family: helvetica;
+}
+.head, .design{
+  background-image: url(file://C:/Users/MattV/Dropbox/Coding/broadway/resources/images/the-flatiron-building.png);
+}
+.head{
+  color: white;
+}
+.head p{
+  font-size: 18px;
+}
+.head h1{
+  font-size: 70px;
+  font-weight: bold;
 }
