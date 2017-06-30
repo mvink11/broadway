@@ -6,7 +6,9 @@ body{
   font-family: helvetica;
 }
 .head, .design{
-  background-image: url("resources/images/the-flatiron-building.png");
+  background-image: url("https://github.com/mvink11/broadway/blob/master/resources/images/the-flatiron-building.png?raw=true");
+  color: white;
+  font-weight: bold;
 }
 .head{
   color: white;
@@ -17,4 +19,26 @@ body{
 .head h1{
   font-size: 70px;
   font-weight: bold;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+h3{
+  font-size: 23px;
+}
+p{
+  font-size: 14px;
+}
+.design{
+  font-size: 23px;
+}
+#foot{
+  background-color: dimgray;
+  font-size: 11px;
+  font-color: white;
+  text-align: left;
+}
+#foot a{
+  font-size: 18px;
 }
