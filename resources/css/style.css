@@ -6,7 +6,7 @@ body{
   font-family: helvetica;
 }
 .head, .design{
-  background-image: url("https://github.com/mvink11/broadway/blob/master/resources/images/the-flatiron-building.png?raw=true");
+  background-image: url("../images/the-flatiron-building.png");
   color: white;
   font-weight: bold;
 }
